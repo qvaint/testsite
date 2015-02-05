@@ -1,5 +1,6 @@
 {.section collection}
   <!-- THIS IS JUST A TEST -->
+  <!-- so have two sections, one on github(origin2) and one on squarespace(origin) -->
   <!-- Create index sections -->
 
   {.repeated section collections}
